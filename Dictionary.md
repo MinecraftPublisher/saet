@@ -1,0 +1,17 @@
+# Dictionary index
+**Total words in the dictionary: 56** (updated every once in a while)
+[[Dictionary/a|Letter a]]
+[[Dictionary/b|Letter b]]
+[[Dictionary/g|Letter g]]
+[[Dictionary/ä|Letter ä]]
+[[Dictionary/d|Letter d]]
+[[Dictionary/ö|Letter ö]]
+[[Dictionary/c|Letter c]]
+[[Dictionary/m|Letter m]]
+[[Dictionary/o|Letter o]]
+[[Dictionary/r|Letter r]]
+[[Dictionary/ë|Letter ë]]
+[[Dictionary/s|Letter s]]
+[[Dictionary/t|Letter t]]
+[[Dictionary/e|Letter e]]
+[[Dictionary/f|Letter f]]
