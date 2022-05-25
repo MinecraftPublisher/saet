@@ -9,21 +9,7 @@ Säët is a language created that hasa standard styling to the point that you re
   - [The alphabet](Guide/The%20alphabet.md) 
   - [Typing](Guide/Typing.md) 
   - [Greetings](Guide/Greetings.md)
-- Dictionary
-  - [a](Dictionary/a.md) 
-  - [b](Dictionary/b.md) 
-  - [g](Dictionary/g.md) 
-  - [ä](Dictionary/ä.md) 
-  - [d](Dictionary/d.md) 
-  - [ö](Dictionary/ö.md) 
-  - [m](Dictionary/m.md) 
-  - [o](Dictionary/o.md) 
-  - [r](Dictionary/r.md) 
-  - [ë](Dictionary/ë.md) 
-  - [s](Dictionary/s.md) 
-  - [t](Dictionary/t.md) 
-  - [e](Dictionary/e.md) 
-  - [f](Dictionary/f.md)
+- [Dictionary](Dictionary.md)
 
 - [Revision logs](Revision%20logs.md)
 
