@@ -1,5 +1,5 @@
-# What is Säët?
-Säët is a language created that hasa standard styling to the point that you read what is written and write what is spoken. Everything sounds the way that it should.
+# Säët
+Is a language created that hasa standard styling to the point that you read what is written and write what is spoken. Everything sounds the way that it should.
 
 ## Index
 - Guide
