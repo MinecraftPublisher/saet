@@ -1,5 +1,5 @@
 # Dictionary index
-**Total words in the dictionary: 56** (updated every once in a while)
+**Total words in the dictionary: 50** (updated every once in a while)
 - [a](Dictionary/a.md) 
 - [b](Dictionary/b.md) 
 - [g](Dictionary/g.md) 
