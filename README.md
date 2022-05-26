@@ -1,8 +1,3 @@
----
-layout: home
----
-
-
 # Säët
 Is a language created that has a standard styling to the point that you read what is written and write what is spoken. Everything sounds the way that it should.
 
